@@ -7,8 +7,8 @@
 ##MACHINE:  op_f 
 #
 ##
-VER = 2.0
-LIBRMN = rmn_014
+VER = 2.1
+LIBRMN = rmn_015.1
 
 EXEC = r.dict
 INCLUDE=/usr/include/libxml2
